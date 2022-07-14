@@ -1,0 +1,32 @@
+
+
+img {
+    width: 250px; 
+	height:150px;
+	 border-width: 5px;
+	 border-style: solid;
+	 border-color: white;
+}
+
+body {
+    background: black;
+    color: white;
+
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.skyline {
+    width: 900px;
+    height: 720px;
+}
+
+.opinion {
+    font-size: 14px;
+}
+
+button {
+    background: skyblue;
+}
